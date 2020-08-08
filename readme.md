@@ -10,11 +10,7 @@
 - nodejs, npm, js, react
 - express nodemon e nunjucks
 
-[![NPM](https://scontent.faru1-1.fna.fbcdn.net/v/t1.0-9/42950845_2049174855162891_7586631910986612736_o.png?_nc_cat=108&_nc_sid=09cbfe&_nc_ohc=GcXSc1TS1VkAX9lsMiD&_nc_ht=scontent.faru1-1.fna&oh=f1677ccdb531cdf9265e206dfd32dcb4&oe=5F563B09)](https://www.npmjs.com/) [![Node](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)](https://nodejs.org/en/) [![JS](https://pluralsight2.imgix.net/paths/images/javascript-542e10ea6e.png)](https://www.javascript.com/)
-
 ## Instalação
-
-- 
 
 ### Clone o repositório
 
@@ -37,8 +33,6 @@ $ npm run dev
 ```
 
 - Abra uma aba no navegador no link http://localhost:5500/
-
----
 
 ## License
 
