@@ -61,6 +61,40 @@
     margin-top: 2.4rem;
 }
 
+#page-give-classes main button.delete-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 5.6rem;
+    margin-top: 3.2rem;
+
+    transition: 0.2s;
+
+    border: none;
+    border-radius: 0.8rem;
+    font: 700 1.6rem Archivo;
+
+    color: var(--color-button-text);
+
+    outline: none;
+}
+#page-give-classes main button.delete-block.inactive {
+    cursor: default;
+    background: var(--color-danger-dark);
+}
+#page-give-classes main button.delete-block.active {
+    cursor: pointer;
+    background: var(--color-danger);
+}
+#page-give-classes main button.delete-block:hover {
+    background: var(--color-danger-dark);
+}
+#page-give-classes main button.delete-block img {
+    margin-right: 0.3rem;
+}
+
 #page-give-classes main footer {
     padding: 4rem 2.4rem;
 
@@ -125,9 +159,9 @@
 
     .schedule-item {
         display: grid;
-        grid-template-columns: 2fr 1fr 1fr;
+        grid-template-columns: 2fr 1fr 1fr 1fr;
         column-gap: 1.6rem;
-        grid-template-areas: "weekend time_at time_to";
+        grid-template-areas: "weekend time_at time_to delete";
     }
     #page-give-classes #schedule-items .select-block+.input-block,
     #page-give-classes #schedule-items .input-block+.input-block {

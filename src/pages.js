@@ -44,6 +44,7 @@ async function pageStudy(req, res) {
 }
 
 function pageGiveClasses(req, res) {
+    
     return res.render('give-classes.html', { subjects, weekdays });
 }
 
