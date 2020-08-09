@@ -8,7 +8,7 @@
 
 - Aula 3 de 4
 - nodejs, npm, js, react
-- express nodemon e nunjucks
+- express nodemon nunjucks e sqlite-async
 
 ## Instalação
 
