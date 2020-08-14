@@ -1,13 +1,13 @@
 # Next Level Week #2
 
-> Curso intensivo da rocketseat sobre javascript, nodejs e react.
+> Curso intensivo da rocketseat sobre javascript, nodejs, html, css e npm.
 
 > Cansativo, mas foi produtivo
 
 > nlw#2, next level week, next level week 2, nlw 2
 
-- Aula 3 de 4
-- nodejs, npm, js, react
+- Aula 4 de 4
+- nodejs, npm, js, html, css
 - express nodemon nunjucks e sqlite-async
 
 ## Instalação
